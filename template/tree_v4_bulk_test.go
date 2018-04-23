@@ -3,7 +3,7 @@ package template
 import (
 	"bufio"
 	"fmt"
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 	"github.com/stretchr/testify/assert"
 	"log"
 	"os"

@@ -3,7 +3,7 @@ package string_tree
 import (
 	"fmt"
 
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 )
 
 // TreeV6 is an IP Address patricia tree

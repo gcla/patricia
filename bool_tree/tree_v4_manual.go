@@ -3,7 +3,7 @@ package bool_tree
 import (
 	"fmt"
 
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 )
 
 // this is IPv4 tree code that's not very copy/paste friendly for when we transfer IPv4 code to IPv6

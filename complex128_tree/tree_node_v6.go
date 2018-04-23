@@ -3,7 +3,7 @@ package complex128_tree
 import (
 	"math/bits"
 
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 )
 
 const _leftmost64Bit = uint64(1 << 63)

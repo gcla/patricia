@@ -3,7 +3,7 @@ package uint64_tree
 import (
 	"fmt"
 
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 )
 
 // TreeV4 is an IP Address patricia tree

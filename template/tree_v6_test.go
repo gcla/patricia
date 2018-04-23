@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 	"github.com/stretchr/testify/assert"
 )
 

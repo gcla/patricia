@@ -3,7 +3,7 @@ package rune_tree
 import (
 	"math/bits"
 
-	"github.com/kentik/patricia"
+	"github.com/gcla/patricia"
 )
 
 const _leftmost32Bit = uint32(1 << 31)
